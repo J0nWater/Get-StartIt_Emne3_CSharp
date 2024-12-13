@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Oppgave3_If_Else", "8_Opp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParProg4_Daniel_Gytis_ToDoApp1", "ParProg4_Daniel_Gytis_ToDoApp1\ParProg4_Daniel_Gytis_ToDoApp1.csproj", "{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_Oppgave-RandomHobbygenerator", "9_Oppgave-RandomHobbygenerator\9_Oppgave-RandomHobbygenerator.csproj", "{C4B61C43-85A0-4ACA-9BF8-80C9922421E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B61C43-85A0-4ACA-9BF8-80C9922421E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B61C43-85A0-4ACA-9BF8-80C9922421E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B61C43-85A0-4ACA-9BF8-80C9922421E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B61C43-85A0-4ACA-9BF8-80C9922421E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
