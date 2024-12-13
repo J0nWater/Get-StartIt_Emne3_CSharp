@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Oppgave2_If_Else", "7_Opp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Oppgave3_If_Else", "8_Oppgave3_If_Else\8_Oppgave3_If_Else.csproj", "{9BA3357E-9EB5-44A6-A85C-D84CFD2F9659}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParProg4_Daniel_Gytis_ToDoApp1", "ParProg4_Daniel_Gytis_ToDoApp1\ParProg4_Daniel_Gytis_ToDoApp1.csproj", "{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{9BA3357E-9EB5-44A6-A85C-D84CFD2F9659}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA3357E-9EB5-44A6-A85C-D84CFD2F9659}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA3357E-9EB5-44A6-A85C-D84CFD2F9659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,5 +91,6 @@ Global
 		{81866783-7E01-408B-8B41-C71A8EC851BD} = {608FBAB4-B412-43D8-B24E-6CAACF9E6DBF}
 		{C39B0BFA-37C8-4F51-91E9-033E94221B2E} = {608FBAB4-B412-43D8-B24E-6CAACF9E6DBF}
 		{82996292-5FF3-47BD-A4AA-0FC7AD11A3B5} = {608FBAB4-B412-43D8-B24E-6CAACF9E6DBF}
+		{B797E5C5-8A8F-40AD-AEFB-13FA6233EB32} = {608FBAB4-B412-43D8-B24E-6CAACF9E6DBF}
 	EndGlobalSection
 EndGlobal
