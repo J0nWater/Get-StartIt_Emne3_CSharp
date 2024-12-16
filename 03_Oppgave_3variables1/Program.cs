@@ -1,4 +1,4 @@
-﻿namespace _3_Oppgave_3variables
+﻿namespace _03_Oppgave_3variables1
 {
     internal class Program
     {

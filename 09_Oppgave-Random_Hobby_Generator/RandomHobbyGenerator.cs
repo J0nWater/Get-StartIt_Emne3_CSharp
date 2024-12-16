@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _9_Oppgave_RandomHobbygenerator
+namespace _09_Oppgave_Random_Hobby_Generator
 {
     internal class App
     {

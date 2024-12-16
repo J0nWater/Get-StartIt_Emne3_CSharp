@@ -1,4 +1,4 @@
-﻿namespace _2_Oppgave_Lag_8_variabler
+﻿namespace _02_Oppgave_Lag_8_variabler1
 {
     internal class Program
     {

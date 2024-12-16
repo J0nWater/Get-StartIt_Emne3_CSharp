@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>_1_Oppgave_Konsollapplikasjoner</RootNamespace>
+    <RootNamespace>_05_Oppgave_PrintSetningIkkeReturnere1</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
